@@ -5,6 +5,8 @@ TDC is Time to Digital Converter. AS6500 is subnanosecond one-shot TDC for lidar
 
 Communication by SPI wirh master MSP430. MSP430FR6989 Launchpad w custom boosterpack-like TDC 4-layer board used, pretty similar to evaluation board by ScioSense.
 
+LCD, uart and crystal libraries are from Launchpad OutOfBox example.
+
 Connections:
 
   MSP-port-connector_side-TDC:
